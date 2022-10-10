@@ -1,0 +1,6 @@
+[book]
+authors = ["5iddy"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Abcs of cosmwasm"
